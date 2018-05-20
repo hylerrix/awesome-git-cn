@@ -17,6 +17,7 @@
   - [钩子管理策略](#钩子管理策略)
   - [工具](#工具)
   - [拓展](#拓展)
+  - [开源协议](#开源协议)
 
 ## 教程
 *畅游互联网，我们可以找到很多 Git 学习资料。*
@@ -130,3 +131,6 @@
 * [Git Large File Storage](https://git-lfs.github.com/) - 由 GitHub 支持的大文件版本化实用解决方案。
 * [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - 以管理非常大的 Git 存储库，同时保持大多数操作的速度和效率的解决方案，由微软推进。
 * [git-annex](https://git-annex.branchable.com/) - 可以通过 [git-annex assistant](https://git-annex.branchable.com/assistant/) 创建一个同步文件夹，来像操作一个正常的 Git 仓库一样来管理机器上的大型二进制文件。
+
+## 开源协议
+[MIT LICENSE](./LICENSE)
