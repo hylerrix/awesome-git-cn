@@ -62,6 +62,11 @@
 * [WorkingCopy](https://workingcopyapp.com) - IOS 平台上的一个强大的 Git 客户端，除需内置付费解锁 push 功能外其它功能均免费使用。
 * [OctoDroid](https://github.com/slapperwan/gh4a) - 安卓平台上一个体积小功能全的 GitHub 客户端。
 
+## 微信小程序
+*依托一个超级 App，我们可以随时随地访问。*
+
+* [Gitter](https://mp.weixin.qq.com/s/v_mk7XlZLFVUT9QdPiQ4ww) - 高颜值的 Github 小程序，除 Github 榜单外还能学习 Git 并跟踪用户订阅的开发者动态。
+
 ## 第三方代码托管平台
 *我们拥有很多不同的选择来托管项目的源代码。*
 
