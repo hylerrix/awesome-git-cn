@@ -1,14 +1,20 @@
-# Awesome Git
+# Aweningo Git
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> 备注：本仓库前身为 awesome-git，单纯的 Git 资源收集库
 
 收集一些有关 Git 的工具、资源清单列表。
+
+## 什么是 Aweningo？
+
+Github 上各类优质的 Awesome List 用文档协作的形式为广大的技术爱好者整理了大量的资源，这还远远不够。幻想如果能将这些资源作为元数据为更上层的应用提供服务，开放相应的 API 授权给每一个用户以开放花样的创意工坊，岂不是能更好的拓展开源生态？这一切目前都只是我的头脑风暴产物，也将随着我的技术成长而逐步在 [@ningowood](https://github.com/ningowood) 中完善中，不定期维护，欢迎未来的你的加入。
+
+<p style="text-align: right;">—— <a target="_blank" href="https://github.com/hylerrix">@hylerrix</a>，2019-04-28</p>
 
 ## 加入我们
 如果你有其他有趣的 Git 工具/项目/资源推荐，欢迎提交 Pull Request 请求到本仓库中。
 
 ## 目录
-- [Awesome Git](#awesome-git)
+- [Aweningo Git](#aweningo-git)
   - [加入我们](#加入我们)
   - [目录](#目录)
   - [教程](#教程)
